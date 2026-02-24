@@ -1,4 +1,3 @@
-/* Paleta coherente: Verde principal #28a745, fondo claro #f8f9fa, texto oscuro #333, blanco #fff */
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -132,7 +131,6 @@ footer {
     margin-top: 30px;
 }
 
-/* Responsive para móviles (Nivel 5 punto 50) */
 @media (max-width: 768px) {
     main {
         flex-direction: column;
